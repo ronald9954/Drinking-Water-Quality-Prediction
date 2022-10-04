@@ -1,5 +1,7 @@
 # Drinking-Water-Quality-Prediction
 Drinking Water Quality Prediction for kaggle competition -  https://www.kaggle.com/competitions/drinking-water-quality/submissions
+
+
 sample_submission.csv - Sample submission from the organizer
 train.csv - Training data from the organizer
 test.csv - Test data from the organizer
